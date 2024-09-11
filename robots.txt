@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://fasazoqedi.netlify.app/sitemap.xml
